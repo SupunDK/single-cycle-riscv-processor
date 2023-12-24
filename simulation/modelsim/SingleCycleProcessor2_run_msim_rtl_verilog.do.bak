@@ -1,0 +1,21 @@
+transcript on
+if {[file exists rtl_work]} {
+	vdel -lib rtl_work -all
+}
+vlib rtl_work
+vmap work rtl_work
+
+vlog -vlog01compat -work work +incdir+D:/OneDrive\ -\ University\ of\ Moratuwa/Volume\ D/5\ sem\ aca\ 2022/Circuite\ and\ Systems/Digital/CA/SingleCycleProcessor2 {D:/OneDrive - University of Moratuwa/Volume D/5 sem aca 2022/Circuite and Systems/Digital/CA/SingleCycleProcessor2/two_bit_mux.v}
+vlog -vlog01compat -work work +incdir+D:/OneDrive\ -\ University\ of\ Moratuwa/Volume\ D/5\ sem\ aca\ 2022/Circuite\ and\ Systems/Digital/CA/SingleCycleProcessor2 {D:/OneDrive - University of Moratuwa/Volume D/5 sem aca 2022/Circuite and Systems/Digital/CA/SingleCycleProcessor2/SingleCycleProcessor2.v}
+vlog -vlog01compat -work work +incdir+D:/OneDrive\ -\ University\ of\ Moratuwa/Volume\ D/5\ sem\ aca\ 2022/Circuite\ and\ Systems/Digital/CA/SingleCycleProcessor2 {D:/OneDrive - University of Moratuwa/Volume D/5 sem aca 2022/Circuite and Systems/Digital/CA/SingleCycleProcessor2/RegisterFile.v}
+vlog -vlog01compat -work work +incdir+D:/OneDrive\ -\ University\ of\ Moratuwa/Volume\ D/5\ sem\ aca\ 2022/Circuite\ and\ Systems/Digital/CA/SingleCycleProcessor2 {D:/OneDrive - University of Moratuwa/Volume D/5 sem aca 2022/Circuite and Systems/Digital/CA/SingleCycleProcessor2/program_counter.v}
+vlog -vlog01compat -work work +incdir+D:/OneDrive\ -\ University\ of\ Moratuwa/Volume\ D/5\ sem\ aca\ 2022/Circuite\ and\ Systems/Digital/CA/SingleCycleProcessor2 {D:/OneDrive - University of Moratuwa/Volume D/5 sem aca 2022/Circuite and Systems/Digital/CA/SingleCycleProcessor2/one_bit_mux.v}
+vlog -vlog01compat -work work +incdir+D:/OneDrive\ -\ University\ of\ Moratuwa/Volume\ D/5\ sem\ aca\ 2022/Circuite\ and\ Systems/Digital/CA/SingleCycleProcessor2 {D:/OneDrive - University of Moratuwa/Volume D/5 sem aca 2022/Circuite and Systems/Digital/CA/SingleCycleProcessor2/instruction_memory.v}
+vlog -vlog01compat -work work +incdir+D:/OneDrive\ -\ University\ of\ Moratuwa/Volume\ D/5\ sem\ aca\ 2022/Circuite\ and\ Systems/Digital/CA/SingleCycleProcessor2 {D:/OneDrive - University of Moratuwa/Volume D/5 sem aca 2022/Circuite and Systems/Digital/CA/SingleCycleProcessor2/increment_pc_by_4.v}
+vlog -vlog01compat -work work +incdir+D:/OneDrive\ -\ University\ of\ Moratuwa/Volume\ D/5\ sem\ aca\ 2022/Circuite\ and\ Systems/Digital/CA/SingleCycleProcessor2 {D:/OneDrive - University of Moratuwa/Volume D/5 sem aca 2022/Circuite and Systems/Digital/CA/SingleCycleProcessor2/immediate_generator.v}
+vlog -vlog01compat -work work +incdir+D:/OneDrive\ -\ University\ of\ Moratuwa/Volume\ D/5\ sem\ aca\ 2022/Circuite\ and\ Systems/Digital/CA/SingleCycleProcessor2 {D:/OneDrive - University of Moratuwa/Volume D/5 sem aca 2022/Circuite and Systems/Digital/CA/SingleCycleProcessor2/data_mem_loader.v}
+vlog -vlog01compat -work work +incdir+D:/OneDrive\ -\ University\ of\ Moratuwa/Volume\ D/5\ sem\ aca\ 2022/Circuite\ and\ Systems/Digital/CA/SingleCycleProcessor2 {D:/OneDrive - University of Moratuwa/Volume D/5 sem aca 2022/Circuite and Systems/Digital/CA/SingleCycleProcessor2/data_memory_controller.v}
+vlog -vlog01compat -work work +incdir+D:/OneDrive\ -\ University\ of\ Moratuwa/Volume\ D/5\ sem\ aca\ 2022/Circuite\ and\ Systems/Digital/CA/SingleCycleProcessor2 {D:/OneDrive - University of Moratuwa/Volume D/5 sem aca 2022/Circuite and Systems/Digital/CA/SingleCycleProcessor2/ControlSignal.v}
+vlog -vlog01compat -work work +incdir+D:/OneDrive\ -\ University\ of\ Moratuwa/Volume\ D/5\ sem\ aca\ 2022/Circuite\ and\ Systems/Digital/CA/SingleCycleProcessor2 {D:/OneDrive - University of Moratuwa/Volume D/5 sem aca 2022/Circuite and Systems/Digital/CA/SingleCycleProcessor2/BranchCmp.v}
+vlog -vlog01compat -work work +incdir+D:/OneDrive\ -\ University\ of\ Moratuwa/Volume\ D/5\ sem\ aca\ 2022/Circuite\ and\ Systems/Digital/CA/SingleCycleProcessor2 {D:/OneDrive - University of Moratuwa/Volume D/5 sem aca 2022/Circuite and Systems/Digital/CA/SingleCycleProcessor2/ALU_32bit.v}
+

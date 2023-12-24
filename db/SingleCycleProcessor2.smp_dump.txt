@@ -1,0 +1,5 @@
+
+State Machine - |SingleCycleProcessor2|data_memory_controller:Data_Mem|direct_mapped_cache_with_victim:cache|priority
+Name priority.01 
+priority.00 0 
+priority.01 1 

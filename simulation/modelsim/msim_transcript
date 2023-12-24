@@ -1,0 +1,324 @@
+# Reading pref.tcl
+# do v2_run_msim_rtl_verilog.do
+# if {[file exists rtl_work]} {
+# 	vdel -lib rtl_work -all
+# }
+# vlib rtl_work
+# vmap work rtl_work
+# Model Technology ModelSim - Intel FPGA Edition vmap 2020.1 Lib Mapping Utility 2020.02 Feb 28 2020
+# vmap work rtl_work 
+# Copying C:/intelFPGA_lite/20.1/modelsim_ase/win32aloem/../modelsim.ini to modelsim.ini
+# Modifying modelsim.ini
+# 
+# vlog -vlog01compat -work work +incdir+C:/Users/supun/OneDrive/Documents/Quartus_Prime/Projects/Single\ Cycle\ Processor\ Design/SingleCycleProcessor2/SingleCycleProcessor2 {C:/Users/supun/OneDrive/Documents/Quartus_Prime/Projects/Single Cycle Processor Design/SingleCycleProcessor2/SingleCycleProcessor2/direct_mapped_cache_with_victim.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 12:04:50 on Feb 12,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/supun/OneDrive/Documents/Quartus_Prime/Projects/Single Cycle Processor Design/SingleCycleProcessor2/SingleCycleProcessor2" C:/Users/supun/OneDrive/Documents/Quartus_Prime/Projects/Single Cycle Processor Design/SingleCycleProcessor2/SingleCycleProcessor2/direct_mapped_cache_with_victim.v 
+# -- Compiling module direct_mapped_cache_with_victim
+# 
+# Top level modules:
+# 	direct_mapped_cache_with_victim
+# End time: 12:04:50 on Feb 12,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/supun/OneDrive/Documents/Quartus_Prime/Projects/Single\ Cycle\ Processor\ Design/SingleCycleProcessor2/SingleCycleProcessor2 {C:/Users/supun/OneDrive/Documents/Quartus_Prime/Projects/Single Cycle Processor Design/SingleCycleProcessor2/SingleCycleProcessor2/ControlSignal.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 12:04:50 on Feb 12,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/supun/OneDrive/Documents/Quartus_Prime/Projects/Single Cycle Processor Design/SingleCycleProcessor2/SingleCycleProcessor2" C:/Users/supun/OneDrive/Documents/Quartus_Prime/Projects/Single Cycle Processor Design/SingleCycleProcessor2/SingleCycleProcessor2/ControlSignal.v 
+# -- Compiling module ControlSignal
+# 
+# Top level modules:
+# 	ControlSignal
+# End time: 12:04:50 on Feb 12,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/supun/OneDrive/Documents/Quartus_Prime/Projects/Single\ Cycle\ Processor\ Design/SingleCycleProcessor2/SingleCycleProcessor2 {C:/Users/supun/OneDrive/Documents/Quartus_Prime/Projects/Single Cycle Processor Design/SingleCycleProcessor2/SingleCycleProcessor2/data_memory_controller.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 12:04:50 on Feb 12,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/supun/OneDrive/Documents/Quartus_Prime/Projects/Single Cycle Processor Design/SingleCycleProcessor2/SingleCycleProcessor2" C:/Users/supun/OneDrive/Documents/Quartus_Prime/Projects/Single Cycle Processor Design/SingleCycleProcessor2/SingleCycleProcessor2/data_memory_controller.v 
+# -- Compiling module data_memory_controller
+# 
+# Top level modules:
+# 	data_memory_controller
+# End time: 12:04:50 on Feb 12,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/supun/OneDrive/Documents/Quartus_Prime/Projects/Single\ Cycle\ Processor\ Design/SingleCycleProcessor2/SingleCycleProcessor2 {C:/Users/supun/OneDrive/Documents/Quartus_Prime/Projects/Single Cycle Processor Design/SingleCycleProcessor2/SingleCycleProcessor2/data_memory.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 12:04:50 on Feb 12,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/supun/OneDrive/Documents/Quartus_Prime/Projects/Single Cycle Processor Design/SingleCycleProcessor2/SingleCycleProcessor2" C:/Users/supun/OneDrive/Documents/Quartus_Prime/Projects/Single Cycle Processor Design/SingleCycleProcessor2/SingleCycleProcessor2/data_memory.v 
+# -- Compiling module data_memory
+# 
+# Top level modules:
+# 	data_memory
+# End time: 12:04:50 on Feb 12,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/supun/OneDrive/Documents/Quartus_Prime/Projects/Single\ Cycle\ Processor\ Design/SingleCycleProcessor2/SingleCycleProcessor2 {C:/Users/supun/OneDrive/Documents/Quartus_Prime/Projects/Single Cycle Processor Design/SingleCycleProcessor2/SingleCycleProcessor2/two_bit_mux.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 12:04:50 on Feb 12,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/supun/OneDrive/Documents/Quartus_Prime/Projects/Single Cycle Processor Design/SingleCycleProcessor2/SingleCycleProcessor2" C:/Users/supun/OneDrive/Documents/Quartus_Prime/Projects/Single Cycle Processor Design/SingleCycleProcessor2/SingleCycleProcessor2/two_bit_mux.v 
+# -- Compiling module two_bit_mux
+# 
+# Top level modules:
+# 	two_bit_mux
+# End time: 12:04:50 on Feb 12,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/supun/OneDrive/Documents/Quartus_Prime/Projects/Single\ Cycle\ Processor\ Design/SingleCycleProcessor2/SingleCycleProcessor2 {C:/Users/supun/OneDrive/Documents/Quartus_Prime/Projects/Single Cycle Processor Design/SingleCycleProcessor2/SingleCycleProcessor2/SingleCycleProcessor2.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 12:04:50 on Feb 12,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/supun/OneDrive/Documents/Quartus_Prime/Projects/Single Cycle Processor Design/SingleCycleProcessor2/SingleCycleProcessor2" C:/Users/supun/OneDrive/Documents/Quartus_Prime/Projects/Single Cycle Processor Design/SingleCycleProcessor2/SingleCycleProcessor2/SingleCycleProcessor2.v 
+# -- Compiling module SingleCycleProcessor2
+# 
+# Top level modules:
+# 	SingleCycleProcessor2
+# End time: 12:04:50 on Feb 12,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/supun/OneDrive/Documents/Quartus_Prime/Projects/Single\ Cycle\ Processor\ Design/SingleCycleProcessor2/SingleCycleProcessor2 {C:/Users/supun/OneDrive/Documents/Quartus_Prime/Projects/Single Cycle Processor Design/SingleCycleProcessor2/SingleCycleProcessor2/RegisterFile.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 12:04:50 on Feb 12,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/supun/OneDrive/Documents/Quartus_Prime/Projects/Single Cycle Processor Design/SingleCycleProcessor2/SingleCycleProcessor2" C:/Users/supun/OneDrive/Documents/Quartus_Prime/Projects/Single Cycle Processor Design/SingleCycleProcessor2/SingleCycleProcessor2/RegisterFile.v 
+# -- Compiling module RegisterFile
+# ** Warning: C:/Users/supun/OneDrive/Documents/Quartus_Prime/Projects/Single Cycle Processor Design/SingleCycleProcessor2/SingleCycleProcessor2/RegisterFile.v(14): (vlog-2182) 'register_list' might be read before written in always_comb or always @* block.
+# 
+# Top level modules:
+# 	RegisterFile
+# End time: 12:04:51 on Feb 12,2023, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 1
+# vlog -vlog01compat -work work +incdir+C:/Users/supun/OneDrive/Documents/Quartus_Prime/Projects/Single\ Cycle\ Processor\ Design/SingleCycleProcessor2/SingleCycleProcessor2 {C:/Users/supun/OneDrive/Documents/Quartus_Prime/Projects/Single Cycle Processor Design/SingleCycleProcessor2/SingleCycleProcessor2/program_counter.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 12:04:51 on Feb 12,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/supun/OneDrive/Documents/Quartus_Prime/Projects/Single Cycle Processor Design/SingleCycleProcessor2/SingleCycleProcessor2" C:/Users/supun/OneDrive/Documents/Quartus_Prime/Projects/Single Cycle Processor Design/SingleCycleProcessor2/SingleCycleProcessor2/program_counter.v 
+# -- Compiling module program_counter
+# 
+# Top level modules:
+# 	program_counter
+# End time: 12:04:51 on Feb 12,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/supun/OneDrive/Documents/Quartus_Prime/Projects/Single\ Cycle\ Processor\ Design/SingleCycleProcessor2/SingleCycleProcessor2 {C:/Users/supun/OneDrive/Documents/Quartus_Prime/Projects/Single Cycle Processor Design/SingleCycleProcessor2/SingleCycleProcessor2/one_bit_mux.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 12:04:51 on Feb 12,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/supun/OneDrive/Documents/Quartus_Prime/Projects/Single Cycle Processor Design/SingleCycleProcessor2/SingleCycleProcessor2" C:/Users/supun/OneDrive/Documents/Quartus_Prime/Projects/Single Cycle Processor Design/SingleCycleProcessor2/SingleCycleProcessor2/one_bit_mux.v 
+# -- Compiling module one_bit_mux
+# 
+# Top level modules:
+# 	one_bit_mux
+# End time: 12:04:51 on Feb 12,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/supun/OneDrive/Documents/Quartus_Prime/Projects/Single\ Cycle\ Processor\ Design/SingleCycleProcessor2/SingleCycleProcessor2 {C:/Users/supun/OneDrive/Documents/Quartus_Prime/Projects/Single Cycle Processor Design/SingleCycleProcessor2/SingleCycleProcessor2/instruction_memory.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 12:04:51 on Feb 12,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/supun/OneDrive/Documents/Quartus_Prime/Projects/Single Cycle Processor Design/SingleCycleProcessor2/SingleCycleProcessor2" C:/Users/supun/OneDrive/Documents/Quartus_Prime/Projects/Single Cycle Processor Design/SingleCycleProcessor2/SingleCycleProcessor2/instruction_memory.v 
+# -- Compiling module instruction_memory
+# 
+# Top level modules:
+# 	instruction_memory
+# End time: 12:04:51 on Feb 12,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/supun/OneDrive/Documents/Quartus_Prime/Projects/Single\ Cycle\ Processor\ Design/SingleCycleProcessor2/SingleCycleProcessor2 {C:/Users/supun/OneDrive/Documents/Quartus_Prime/Projects/Single Cycle Processor Design/SingleCycleProcessor2/SingleCycleProcessor2/increment_pc_by_4.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 12:04:51 on Feb 12,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/supun/OneDrive/Documents/Quartus_Prime/Projects/Single Cycle Processor Design/SingleCycleProcessor2/SingleCycleProcessor2" C:/Users/supun/OneDrive/Documents/Quartus_Prime/Projects/Single Cycle Processor Design/SingleCycleProcessor2/SingleCycleProcessor2/increment_pc_by_4.v 
+# -- Compiling module increment_pc_by_4
+# 
+# Top level modules:
+# 	increment_pc_by_4
+# End time: 12:04:51 on Feb 12,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/supun/OneDrive/Documents/Quartus_Prime/Projects/Single\ Cycle\ Processor\ Design/SingleCycleProcessor2/SingleCycleProcessor2 {C:/Users/supun/OneDrive/Documents/Quartus_Prime/Projects/Single Cycle Processor Design/SingleCycleProcessor2/SingleCycleProcessor2/immediate_generator.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 12:04:51 on Feb 12,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/supun/OneDrive/Documents/Quartus_Prime/Projects/Single Cycle Processor Design/SingleCycleProcessor2/SingleCycleProcessor2" C:/Users/supun/OneDrive/Documents/Quartus_Prime/Projects/Single Cycle Processor Design/SingleCycleProcessor2/SingleCycleProcessor2/immediate_generator.v 
+# -- Compiling module immediate_generator
+# 
+# Top level modules:
+# 	immediate_generator
+# End time: 12:04:51 on Feb 12,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/supun/OneDrive/Documents/Quartus_Prime/Projects/Single\ Cycle\ Processor\ Design/SingleCycleProcessor2/SingleCycleProcessor2 {C:/Users/supun/OneDrive/Documents/Quartus_Prime/Projects/Single Cycle Processor Design/SingleCycleProcessor2/SingleCycleProcessor2/data_mem_loader.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 12:04:51 on Feb 12,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/supun/OneDrive/Documents/Quartus_Prime/Projects/Single Cycle Processor Design/SingleCycleProcessor2/SingleCycleProcessor2" C:/Users/supun/OneDrive/Documents/Quartus_Prime/Projects/Single Cycle Processor Design/SingleCycleProcessor2/SingleCycleProcessor2/data_mem_loader.v 
+# -- Compiling module data_mem_loader
+# 
+# Top level modules:
+# 	data_mem_loader
+# End time: 12:04:51 on Feb 12,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/supun/OneDrive/Documents/Quartus_Prime/Projects/Single\ Cycle\ Processor\ Design/SingleCycleProcessor2/SingleCycleProcessor2 {C:/Users/supun/OneDrive/Documents/Quartus_Prime/Projects/Single Cycle Processor Design/SingleCycleProcessor2/SingleCycleProcessor2/BranchCmp.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 12:04:52 on Feb 12,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/supun/OneDrive/Documents/Quartus_Prime/Projects/Single Cycle Processor Design/SingleCycleProcessor2/SingleCycleProcessor2" C:/Users/supun/OneDrive/Documents/Quartus_Prime/Projects/Single Cycle Processor Design/SingleCycleProcessor2/SingleCycleProcessor2/BranchCmp.v 
+# -- Compiling module BranchCmp
+# 
+# Top level modules:
+# 	BranchCmp
+# End time: 12:04:52 on Feb 12,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/supun/OneDrive/Documents/Quartus_Prime/Projects/Single\ Cycle\ Processor\ Design/SingleCycleProcessor2/SingleCycleProcessor2 {C:/Users/supun/OneDrive/Documents/Quartus_Prime/Projects/Single Cycle Processor Design/SingleCycleProcessor2/SingleCycleProcessor2/ALU_32bit.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 12:04:52 on Feb 12,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/supun/OneDrive/Documents/Quartus_Prime/Projects/Single Cycle Processor Design/SingleCycleProcessor2/SingleCycleProcessor2" C:/Users/supun/OneDrive/Documents/Quartus_Prime/Projects/Single Cycle Processor Design/SingleCycleProcessor2/SingleCycleProcessor2/ALU_32bit.v 
+# -- Compiling module ALU_32bit
+# 
+# Top level modules:
+# 	ALU_32bit
+# End time: 12:04:52 on Feb 12,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/supun/OneDrive/Documents/Quartus_Prime/Projects/Single\ Cycle\ Processor\ Design/SingleCycleProcessor2/SingleCycleProcessor2 {C:/Users/supun/OneDrive/Documents/Quartus_Prime/Projects/Single Cycle Processor Design/SingleCycleProcessor2/SingleCycleProcessor2/counter.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 12:04:52 on Feb 12,2023
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/supun/OneDrive/Documents/Quartus_Prime/Projects/Single Cycle Processor Design/SingleCycleProcessor2/SingleCycleProcessor2" C:/Users/supun/OneDrive/Documents/Quartus_Prime/Projects/Single Cycle Processor Design/SingleCycleProcessor2/SingleCycleProcessor2/counter.v 
+# -- Compiling module counter
+# 
+# Top level modules:
+# 	counter
+# End time: 12:04:52 on Feb 12,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# 
+vsim -gui -l msim_transcript work.SingleCycleProcessor2 -Lf altera_mf_ver -Lf lpm_ver
+# vsim -gui -l msim_transcript work.SingleCycleProcessor2 -Lf altera_mf_ver -Lf lpm_ver 
+# Start time: 12:05:15 on Feb 12,2023
+# Loading work.SingleCycleProcessor2
+# Loading work.counter
+# Loading lpm_ver.lpm_counter
+# Loading work.one_bit_mux
+# Loading work.increment_pc_by_4
+# Loading work.program_counter
+# Loading work.instruction_memory
+# Loading work.RegisterFile
+# Loading work.immediate_generator
+# Loading work.BranchCmp
+# Loading work.ALU_32bit
+# Loading work.data_memory_controller
+# Loading work.direct_mapped_cache_with_victim
+# Loading work.data_memory
+# Loading altera_mf_ver.altsyncram
+# Loading work.data_mem_loader
+# Loading work.two_bit_mux
+# Loading work.ControlSignal
+# Loading altera_mf_ver.altsyncram_body
+# Loading altera_mf_ver.ALTERA_DEVICE_FAMILIES
+# Loading altera_mf_ver.ALTERA_MF_MEMORY_INITIALIZATION
+# ** Warning: (vsim-3015) [PCDPC] - Port size (16) does not match connection size (6) for port 'address_a'. The port definition is at: $MODEL_TECH/../altera/verilog/src/altera_mf.v(47599).
+#    Time: 0 ps  Iteration: 0  Instance: /SingleCycleProcessor2/Data_Mem/Data_Memory/altsyncram_component File: C:/Users/supun/OneDrive/Documents/Quartus_Prime/Projects/Single Cycle Processor Design/SingleCycleProcessor2/SingleCycleProcessor2/data_memory.v Line: 66
+add wave -position end  sim:/SingleCycleProcessor2/clock
+add wave -position end  sim:/SingleCycleProcessor2/clk
+add wave -position end  sim:/SingleCycleProcessor2/pc_out
+add wave -position end  sim:/SingleCycleProcessor2/inst
+add wave -position end  sim:/SingleCycleProcessor2/data_mem_enable
+add wave -position end  sim:/SingleCycleProcessor2/wait_until_next_cycle_flag
+add wave -position 5  sim:/SingleCycleProcessor2/Register_File/register_list
+add wave -position 5  sim:/SingleCycleProcessor2/Register_File/register1
+add wave -position 6  sim:/SingleCycleProcessor2/Register_File/register2
+add wave -position end  sim:/SingleCycleProcessor2/Data_Mem/cache/addr
+add wave -position end  sim:/SingleCycleProcessor2/Data_Mem/cache/data_in_cpu
+add wave -position end  sim:/SingleCycleProcessor2/Data_Mem/cache/write_mode
+add wave -position 8  sim:/SingleCycleProcessor2/Data_Mem/cache/enable
+add wave -position 10  sim:/SingleCycleProcessor2/Data_Mem/cache/wait_until_next_cycle
+add wave -position end  sim:/SingleCycleProcessor2/Data_Mem/cache/data_out_memory
+add wave -position end  sim:/SingleCycleProcessor2/Data_Mem/cache/cache
+add wave -position end  sim:/SingleCycleProcessor2/Data_Mem/cache/tag_store
+add wave -position end  sim:/SingleCycleProcessor2/Data_Mem/cache/valid_bit_store
+add wave -position end  sim:/SingleCycleProcessor2/Data_Mem/cache/victim_cache
+add wave -position end  sim:/SingleCycleProcessor2/Data_Mem/cache/victim_tag_store
+add wave -position 11  sim:/SingleCycleProcessor2/Data_Mem/cache/mem_access_flag
+force -freeze sim:/SingleCycleProcessor2/clock 1 0, 0 {10000 ps} -r 20000
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+add wave -position 6  sim:/SingleCycleProcessor2/Imm_Generator/immediate
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# ** Warning: (vsim-3015) [PCDPC] - Port size (16) does not match connection size (6) for port 'address_a'. The port definition is at: $MODEL_TECH/../altera/verilog/src/altera_mf.v(47599).
+#    Time: 0 ps  Iteration: 0  Instance: /SingleCycleProcessor2/Data_Mem/Data_Memory/altsyncram_component File: C:/Users/supun/OneDrive/Documents/Quartus_Prime/Projects/Single Cycle Processor Design/SingleCycleProcessor2/SingleCycleProcessor2/data_memory.v Line: 66
+force -freeze sim:/SingleCycleProcessor2/clock 1 0, 0 {10000 ps} -r 20000
+run
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run

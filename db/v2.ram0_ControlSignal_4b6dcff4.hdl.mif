@@ -1,0 +1,13 @@
+-- begin_signature
+-- ControlSignal
+-- end_signature
+WIDTH=20;
+DEPTH=2;
+
+ADDRESS_RADIX=UNS;
+DATA_RADIX=BIN;
+
+CONTENT BEGIN
+	1 :	11010001011100000010;
+	0 :	11010001011000000010;
+END;

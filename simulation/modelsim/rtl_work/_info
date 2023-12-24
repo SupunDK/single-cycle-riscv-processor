@@ -1,0 +1,400 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/supun/OneDrive/Documents/Quartus_Prime/Projects/Single Cycle Processor Design/SingleCycleProcessor2/SingleCycleProcessor2/simulation/modelsim
+vALU_32bit
+Z1 !s110 1676183692
+!i10b 1
+!s100 QU`]R1O28lhKkk1k1T0F:2
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I[ednQMB<Pl5UmYSJgPiz72
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z4 w1676117444
+8C:/Users/supun/OneDrive/Documents/Quartus_Prime/Projects/Single Cycle Processor Design/SingleCycleProcessor2/SingleCycleProcessor2/ALU_32bit.v
+FC:/Users/supun/OneDrive/Documents/Quartus_Prime/Projects/Single Cycle Processor Design/SingleCycleProcessor2/SingleCycleProcessor2/ALU_32bit.v
+!i122 14
+Z5 L0 1 46
+Z6 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z7 !s108 1676183692.000000
+!s107 C:/Users/supun/OneDrive/Documents/Quartus_Prime/Projects/Single Cycle Processor Design/SingleCycleProcessor2/SingleCycleProcessor2/ALU_32bit.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/supun/OneDrive/Documents/Quartus_Prime/Projects/Single Cycle Processor Design/SingleCycleProcessor2/SingleCycleProcessor2|C:/Users/supun/OneDrive/Documents/Quartus_Prime/Projects/Single Cycle Processor Design/SingleCycleProcessor2/SingleCycleProcessor2/ALU_32bit.v|
+!i113 1
+Z8 o-vlog01compat -work work
+Z9 !s92 -vlog01compat -work work {+incdir+C:/Users/supun/OneDrive/Documents/Quartus_Prime/Projects/Single Cycle Processor Design/SingleCycleProcessor2/SingleCycleProcessor2}
+Z10 tCvgOpt 0
+n@a@l@u_32bit
+vBranchCmp
+R1
+!i10b 1
+!s100 9>mlTWT8[MP@LND^QC0;l0
+R2
+IbPIMWbXY3P3UAUMJmN5ga3
+R3
+R0
+R4
+8C:/Users/supun/OneDrive/Documents/Quartus_Prime/Projects/Single Cycle Processor Design/SingleCycleProcessor2/SingleCycleProcessor2/BranchCmp.v
+FC:/Users/supun/OneDrive/Documents/Quartus_Prime/Projects/Single Cycle Processor Design/SingleCycleProcessor2/SingleCycleProcessor2/BranchCmp.v
+!i122 13
+L0 1 33
+R6
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/supun/OneDrive/Documents/Quartus_Prime/Projects/Single Cycle Processor Design/SingleCycleProcessor2/SingleCycleProcessor2/BranchCmp.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/supun/OneDrive/Documents/Quartus_Prime/Projects/Single Cycle Processor Design/SingleCycleProcessor2/SingleCycleProcessor2|C:/Users/supun/OneDrive/Documents/Quartus_Prime/Projects/Single Cycle Processor Design/SingleCycleProcessor2/SingleCycleProcessor2/BranchCmp.v|
+!i113 1
+R8
+R9
+R10
+n@branch@cmp
+vControlSignal
+Z11 !s110 1676183690
+!i10b 1
+!s100 Q8]m09z6BcdzBoRQ`NL[31
+R2
+I;dH1LEFZTz6OAeEA=FU;k2
+R3
+R0
+w1676150013
+8C:/Users/supun/OneDrive/Documents/Quartus_Prime/Projects/Single Cycle Processor Design/SingleCycleProcessor2/SingleCycleProcessor2/ControlSignal.v
+FC:/Users/supun/OneDrive/Documents/Quartus_Prime/Projects/Single Cycle Processor Design/SingleCycleProcessor2/SingleCycleProcessor2/ControlSignal.v
+!i122 1
+L0 2 130
+R6
+r1
+!s85 0
+31
+Z12 !s108 1676183690.000000
+!s107 C:/Users/supun/OneDrive/Documents/Quartus_Prime/Projects/Single Cycle Processor Design/SingleCycleProcessor2/SingleCycleProcessor2/ControlSignal.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/supun/OneDrive/Documents/Quartus_Prime/Projects/Single Cycle Processor Design/SingleCycleProcessor2/SingleCycleProcessor2|C:/Users/supun/OneDrive/Documents/Quartus_Prime/Projects/Single Cycle Processor Design/SingleCycleProcessor2/SingleCycleProcessor2/ControlSignal.v|
+!i113 1
+R8
+R9
+R10
+n@control@signal
+vcounter
+R1
+!i10b 1
+!s100 MhUgc^gZ=FX`7nzjiFd3N2
+R2
+IXC@k^gCXXD1?`ShJYYh[j0
+R3
+R0
+w1676174183
+8C:/Users/supun/OneDrive/Documents/Quartus_Prime/Projects/Single Cycle Processor Design/SingleCycleProcessor2/SingleCycleProcessor2/counter.v
+FC:/Users/supun/OneDrive/Documents/Quartus_Prime/Projects/Single Cycle Processor Design/SingleCycleProcessor2/SingleCycleProcessor2/counter.v
+!i122 15
+L0 40 34
+R6
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/supun/OneDrive/Documents/Quartus_Prime/Projects/Single Cycle Processor Design/SingleCycleProcessor2/SingleCycleProcessor2/counter.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/supun/OneDrive/Documents/Quartus_Prime/Projects/Single Cycle Processor Design/SingleCycleProcessor2/SingleCycleProcessor2|C:/Users/supun/OneDrive/Documents/Quartus_Prime/Projects/Single Cycle Processor Design/SingleCycleProcessor2/SingleCycleProcessor2/counter.v|
+!i113 1
+R8
+R9
+R10
+vdata_mem_loader
+Z13 !s110 1676183691
+!i10b 1
+!s100 0>]EjZ>5@o=A[:C4CInID0
+R2
+IFV=j`Z3XzYV<YJbAPmCzT0
+R3
+R0
+R4
+8C:/Users/supun/OneDrive/Documents/Quartus_Prime/Projects/Single Cycle Processor Design/SingleCycleProcessor2/SingleCycleProcessor2/data_mem_loader.v
+FC:/Users/supun/OneDrive/Documents/Quartus_Prime/Projects/Single Cycle Processor Design/SingleCycleProcessor2/SingleCycleProcessor2/data_mem_loader.v
+!i122 12
+R5
+R6
+r1
+!s85 0
+31
+Z14 !s108 1676183691.000000
+!s107 C:/Users/supun/OneDrive/Documents/Quartus_Prime/Projects/Single Cycle Processor Design/SingleCycleProcessor2/SingleCycleProcessor2/data_mem_loader.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/supun/OneDrive/Documents/Quartus_Prime/Projects/Single Cycle Processor Design/SingleCycleProcessor2/SingleCycleProcessor2|C:/Users/supun/OneDrive/Documents/Quartus_Prime/Projects/Single Cycle Processor Design/SingleCycleProcessor2/SingleCycleProcessor2/data_mem_loader.v|
+!i113 1
+R8
+R9
+R10
+vdata_memory
+R11
+!i10b 1
+!s100 DhnKi:MQBe6M6<8^I?U`10
+R2
+Ii;P4Xe]b68RPKa4Q_1W^T1
+R3
+R0
+w1676173516
+8C:/Users/supun/OneDrive/Documents/Quartus_Prime/Projects/Single Cycle Processor Design/SingleCycleProcessor2/SingleCycleProcessor2/data_memory.v
+FC:/Users/supun/OneDrive/Documents/Quartus_Prime/Projects/Single Cycle Processor Design/SingleCycleProcessor2/SingleCycleProcessor2/data_memory.v
+!i122 3
+L0 40 69
+R6
+r1
+!s85 0
+31
+R12
+!s107 C:/Users/supun/OneDrive/Documents/Quartus_Prime/Projects/Single Cycle Processor Design/SingleCycleProcessor2/SingleCycleProcessor2/data_memory.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/supun/OneDrive/Documents/Quartus_Prime/Projects/Single Cycle Processor Design/SingleCycleProcessor2/SingleCycleProcessor2|C:/Users/supun/OneDrive/Documents/Quartus_Prime/Projects/Single Cycle Processor Design/SingleCycleProcessor2/SingleCycleProcessor2/data_memory.v|
+!i113 1
+R8
+R9
+R10
+vdata_memory_controller
+R11
+!i10b 1
+!s100 `NCWLgU5;ES;5AngmdiOS2
+R2
+I1eDLLR]0PUG<]0i00XiQf1
+R3
+R0
+w1676183405
+8C:/Users/supun/OneDrive/Documents/Quartus_Prime/Projects/Single Cycle Processor Design/SingleCycleProcessor2/SingleCycleProcessor2/data_memory_controller.v
+FC:/Users/supun/OneDrive/Documents/Quartus_Prime/Projects/Single Cycle Processor Design/SingleCycleProcessor2/SingleCycleProcessor2/data_memory_controller.v
+!i122 2
+L0 1 81
+R6
+r1
+!s85 0
+31
+R12
+!s107 C:/Users/supun/OneDrive/Documents/Quartus_Prime/Projects/Single Cycle Processor Design/SingleCycleProcessor2/SingleCycleProcessor2/data_memory_controller.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/supun/OneDrive/Documents/Quartus_Prime/Projects/Single Cycle Processor Design/SingleCycleProcessor2/SingleCycleProcessor2|C:/Users/supun/OneDrive/Documents/Quartus_Prime/Projects/Single Cycle Processor Design/SingleCycleProcessor2/SingleCycleProcessor2/data_memory_controller.v|
+!i113 1
+R8
+R9
+R10
+vdirect_mapped_cache_with_victim
+R11
+!i10b 1
+!s100 ZMSYfON;^LJ3]BWR5?dWn0
+R2
+I245=`5MGIN5YdfEY7iKBL0
+R3
+R0
+w1676179826
+8C:/Users/supun/OneDrive/Documents/Quartus_Prime/Projects/Single Cycle Processor Design/SingleCycleProcessor2/SingleCycleProcessor2/direct_mapped_cache_with_victim.v
+FC:/Users/supun/OneDrive/Documents/Quartus_Prime/Projects/Single Cycle Processor Design/SingleCycleProcessor2/SingleCycleProcessor2/direct_mapped_cache_with_victim.v
+!i122 0
+L0 1 236
+R6
+r1
+!s85 0
+31
+R12
+!s107 C:/Users/supun/OneDrive/Documents/Quartus_Prime/Projects/Single Cycle Processor Design/SingleCycleProcessor2/SingleCycleProcessor2/direct_mapped_cache_with_victim.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/supun/OneDrive/Documents/Quartus_Prime/Projects/Single Cycle Processor Design/SingleCycleProcessor2/SingleCycleProcessor2|C:/Users/supun/OneDrive/Documents/Quartus_Prime/Projects/Single Cycle Processor Design/SingleCycleProcessor2/SingleCycleProcessor2/direct_mapped_cache_with_victim.v|
+!i113 1
+R8
+R9
+R10
+vimmediate_generator
+R13
+!i10b 1
+!s100 dJE4[[P=GnR:WXVAdL:j;1
+R2
+I[Rhii>XN^ezedcL>DUb5`3
+R3
+R0
+R4
+8C:/Users/supun/OneDrive/Documents/Quartus_Prime/Projects/Single Cycle Processor Design/SingleCycleProcessor2/SingleCycleProcessor2/immediate_generator.v
+FC:/Users/supun/OneDrive/Documents/Quartus_Prime/Projects/Single Cycle Processor Design/SingleCycleProcessor2/SingleCycleProcessor2/immediate_generator.v
+!i122 11
+L0 1 66
+R6
+r1
+!s85 0
+31
+R14
+!s107 C:/Users/supun/OneDrive/Documents/Quartus_Prime/Projects/Single Cycle Processor Design/SingleCycleProcessor2/SingleCycleProcessor2/immediate_generator.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/supun/OneDrive/Documents/Quartus_Prime/Projects/Single Cycle Processor Design/SingleCycleProcessor2/SingleCycleProcessor2|C:/Users/supun/OneDrive/Documents/Quartus_Prime/Projects/Single Cycle Processor Design/SingleCycleProcessor2/SingleCycleProcessor2/immediate_generator.v|
+!i113 1
+R8
+R9
+R10
+vincrement_pc_by_4
+R13
+!i10b 1
+!s100 9j3QC[G0M<4n1T6WUceL;2
+R2
+I=kQAD94DZO7TBI_CAoiO20
+R3
+R0
+w1676151484
+8C:/Users/supun/OneDrive/Documents/Quartus_Prime/Projects/Single Cycle Processor Design/SingleCycleProcessor2/SingleCycleProcessor2/increment_pc_by_4.v
+FC:/Users/supun/OneDrive/Documents/Quartus_Prime/Projects/Single Cycle Processor Design/SingleCycleProcessor2/SingleCycleProcessor2/increment_pc_by_4.v
+!i122 10
+L0 1 14
+R6
+r1
+!s85 0
+31
+R14
+!s107 C:/Users/supun/OneDrive/Documents/Quartus_Prime/Projects/Single Cycle Processor Design/SingleCycleProcessor2/SingleCycleProcessor2/increment_pc_by_4.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/supun/OneDrive/Documents/Quartus_Prime/Projects/Single Cycle Processor Design/SingleCycleProcessor2/SingleCycleProcessor2|C:/Users/supun/OneDrive/Documents/Quartus_Prime/Projects/Single Cycle Processor Design/SingleCycleProcessor2/SingleCycleProcessor2/increment_pc_by_4.v|
+!i113 1
+R8
+R9
+R10
+vinstruction_memory
+R13
+!i10b 1
+!s100 8VHOXz[F>[m8d9YGMgJoe2
+R2
+IC36d:VlIm0SYcaTDai2hk3
+R3
+R0
+w1676176046
+8C:/Users/supun/OneDrive/Documents/Quartus_Prime/Projects/Single Cycle Processor Design/SingleCycleProcessor2/SingleCycleProcessor2/instruction_memory.v
+FC:/Users/supun/OneDrive/Documents/Quartus_Prime/Projects/Single Cycle Processor Design/SingleCycleProcessor2/SingleCycleProcessor2/instruction_memory.v
+!i122 9
+L0 23 43
+R6
+r1
+!s85 0
+31
+R14
+!s107 C:/Users/supun/OneDrive/Documents/Quartus_Prime/Projects/Single Cycle Processor Design/SingleCycleProcessor2/SingleCycleProcessor2/instruction_memory.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/supun/OneDrive/Documents/Quartus_Prime/Projects/Single Cycle Processor Design/SingleCycleProcessor2/SingleCycleProcessor2|C:/Users/supun/OneDrive/Documents/Quartus_Prime/Projects/Single Cycle Processor Design/SingleCycleProcessor2/SingleCycleProcessor2/instruction_memory.v|
+!i113 1
+R8
+R9
+R10
+vone_bit_mux
+R13
+!i10b 1
+!s100 QS;GgGPGGQI@ggP_14JGM3
+R2
+I3OMf_X2YJ<_0XSRD32lIN0
+R3
+R0
+R4
+8C:/Users/supun/OneDrive/Documents/Quartus_Prime/Projects/Single Cycle Processor Design/SingleCycleProcessor2/SingleCycleProcessor2/one_bit_mux.v
+FC:/Users/supun/OneDrive/Documents/Quartus_Prime/Projects/Single Cycle Processor Design/SingleCycleProcessor2/SingleCycleProcessor2/one_bit_mux.v
+!i122 8
+L0 7 8
+R6
+r1
+!s85 0
+31
+R14
+!s107 C:/Users/supun/OneDrive/Documents/Quartus_Prime/Projects/Single Cycle Processor Design/SingleCycleProcessor2/SingleCycleProcessor2/one_bit_mux.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/supun/OneDrive/Documents/Quartus_Prime/Projects/Single Cycle Processor Design/SingleCycleProcessor2/SingleCycleProcessor2|C:/Users/supun/OneDrive/Documents/Quartus_Prime/Projects/Single Cycle Processor Design/SingleCycleProcessor2/SingleCycleProcessor2/one_bit_mux.v|
+!i113 1
+R8
+R9
+R10
+vprogram_counter
+R13
+!i10b 1
+!s100 ;z]zC4JFddiN8dl7fSO950
+R2
+IP;Z02SNZ_QOzgg6cHX6kW1
+R3
+R0
+w1676151547
+8C:/Users/supun/OneDrive/Documents/Quartus_Prime/Projects/Single Cycle Processor Design/SingleCycleProcessor2/SingleCycleProcessor2/program_counter.v
+FC:/Users/supun/OneDrive/Documents/Quartus_Prime/Projects/Single Cycle Processor Design/SingleCycleProcessor2/SingleCycleProcessor2/program_counter.v
+!i122 7
+L0 4 21
+R6
+r1
+!s85 0
+31
+R14
+!s107 C:/Users/supun/OneDrive/Documents/Quartus_Prime/Projects/Single Cycle Processor Design/SingleCycleProcessor2/SingleCycleProcessor2/program_counter.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/supun/OneDrive/Documents/Quartus_Prime/Projects/Single Cycle Processor Design/SingleCycleProcessor2/SingleCycleProcessor2|C:/Users/supun/OneDrive/Documents/Quartus_Prime/Projects/Single Cycle Processor Design/SingleCycleProcessor2/SingleCycleProcessor2/program_counter.v|
+!i113 1
+R8
+R9
+R10
+vRegisterFile
+R13
+!i10b 1
+!s100 0Mj`7XAQ<4k4Ub];^[f@C0
+R2
+Io;VVUI:lKG2PH>oHM3L8M0
+R3
+R0
+R4
+8C:/Users/supun/OneDrive/Documents/Quartus_Prime/Projects/Single Cycle Processor Design/SingleCycleProcessor2/SingleCycleProcessor2/RegisterFile.v
+FC:/Users/supun/OneDrive/Documents/Quartus_Prime/Projects/Single Cycle Processor Design/SingleCycleProcessor2/SingleCycleProcessor2/RegisterFile.v
+!i122 6
+L0 1 25
+R6
+r1
+!s85 0
+31
+R12
+!s107 C:/Users/supun/OneDrive/Documents/Quartus_Prime/Projects/Single Cycle Processor Design/SingleCycleProcessor2/SingleCycleProcessor2/RegisterFile.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/supun/OneDrive/Documents/Quartus_Prime/Projects/Single Cycle Processor Design/SingleCycleProcessor2/SingleCycleProcessor2|C:/Users/supun/OneDrive/Documents/Quartus_Prime/Projects/Single Cycle Processor Design/SingleCycleProcessor2/SingleCycleProcessor2/RegisterFile.v|
+!i113 1
+R8
+R9
+R10
+n@register@file
+vSingleCycleProcessor2
+R11
+!i10b 1
+!s100 j4c3@Lc5m[H:>MM:j27LH1
+R2
+I0K]NS;8AJ5VD4Qen8C9j;1
+R3
+R0
+w1676183503
+8C:/Users/supun/OneDrive/Documents/Quartus_Prime/Projects/Single Cycle Processor Design/SingleCycleProcessor2/SingleCycleProcessor2/SingleCycleProcessor2.v
+FC:/Users/supun/OneDrive/Documents/Quartus_Prime/Projects/Single Cycle Processor Design/SingleCycleProcessor2/SingleCycleProcessor2/SingleCycleProcessor2.v
+!i122 5
+L0 1 240
+R6
+r1
+!s85 0
+31
+R12
+!s107 C:/Users/supun/OneDrive/Documents/Quartus_Prime/Projects/Single Cycle Processor Design/SingleCycleProcessor2/SingleCycleProcessor2/SingleCycleProcessor2.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/supun/OneDrive/Documents/Quartus_Prime/Projects/Single Cycle Processor Design/SingleCycleProcessor2/SingleCycleProcessor2|C:/Users/supun/OneDrive/Documents/Quartus_Prime/Projects/Single Cycle Processor Design/SingleCycleProcessor2/SingleCycleProcessor2/SingleCycleProcessor2.v|
+!i113 1
+R8
+R9
+R10
+n@single@cycle@processor2
+vtwo_bit_mux
+R11
+!i10b 1
+!s100 >[h1nCCIS<eF:Zk@_5<A^0
+R2
+IQzfK@Af=3;:33F@_H54^41
+R3
+R0
+w1676117445
+8C:/Users/supun/OneDrive/Documents/Quartus_Prime/Projects/Single Cycle Processor Design/SingleCycleProcessor2/SingleCycleProcessor2/two_bit_mux.v
+FC:/Users/supun/OneDrive/Documents/Quartus_Prime/Projects/Single Cycle Processor Design/SingleCycleProcessor2/SingleCycleProcessor2/two_bit_mux.v
+!i122 4
+L0 2 14
+R6
+r1
+!s85 0
+31
+R12
+!s107 C:/Users/supun/OneDrive/Documents/Quartus_Prime/Projects/Single Cycle Processor Design/SingleCycleProcessor2/SingleCycleProcessor2/two_bit_mux.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/supun/OneDrive/Documents/Quartus_Prime/Projects/Single Cycle Processor Design/SingleCycleProcessor2/SingleCycleProcessor2|C:/Users/supun/OneDrive/Documents/Quartus_Prime/Projects/Single Cycle Processor Design/SingleCycleProcessor2/SingleCycleProcessor2/two_bit_mux.v|
+!i113 1
+R8
+R9
+R10
